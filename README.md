@@ -10,3 +10,4 @@ Python solutions of some of the famous Backtracking problems of Leetcode
 | 5 | [Letter Combinations of a Phone Number](https://github.com/MainakRepositor/Backtracking-Leet/blob/master/5.py) |
 | 6 | [Palindrome Partitioning](https://github.com/MainakRepositor/Backtracking-Leet/blob/master/6.py) |
 | 7 | [Subsets](https://github.com/MainakRepositor/Backtracking-Leet/blob/master/7.py) |
+| 8 | [Combination Sum](https://github.com/MainakRepositor/Backtracking-Leet/blob/master/8.py) |
